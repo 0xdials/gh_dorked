@@ -38,8 +38,7 @@ if len(sys.argv)==2:
 	print(f" github_token")
 	print(f"https://github.com/search?q=%22{search_string}%22+github_token&type=Code")
 	print(f" app_secret")
-	print(f"https://github.com/search?q=%22{search_string}%22+app_secret&type=Code")
-	
+	print(f"https://github.com/search?q=%22{search_string}%22+app_secret&type=Code")	
 	print("\n**Configs and misc.**")
 	print(f" dockercfg")
 	print(f"https://github.com/search?q=%22{search_string}%22+dockercfg&type=Code")
